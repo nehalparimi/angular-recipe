@@ -22,7 +22,7 @@ import { RecipeDetailComponent } from './recipe/recipe-detail/recipe-detail.comp
     RecipeDetailComponent
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
